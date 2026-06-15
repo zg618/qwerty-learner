@@ -32,7 +32,7 @@
 
 ## 📸 在线访问
 
-**首选部署**: <https://qwerty.kaiyi.cool/>
+**原项目部署**: <https://qwerty.kaiyi.cool/>
 GitHub Pages: <https://realkai42.github.io/qwerty-learner/>
 
 镜像仓库:
